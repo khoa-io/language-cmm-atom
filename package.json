@@ -1,6 +1,6 @@
 {
   "name": "language-cmm-atom",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Provides basic syntax highlighting for PRACTICE Script Language",
   "keywords": [
     "language",
