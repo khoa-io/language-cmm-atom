@@ -1,13 +1,13 @@
 {
   "name": "language-cmm-atom",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "description": "Provides basic syntax highlighting for PRACTICE Script Language",
   "keywords": [
     "language",
     "grammar",
     "practice"
   ],
-  "repository": "https://gitlab.com/khoa-io/language-cmm-atom.git",
+  "repository": "git@github.com:khoa-io/language-cmm-atom.git",
   "license": "MIT",
   "engines": {
     "atom": "*",
